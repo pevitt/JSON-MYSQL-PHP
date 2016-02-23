@@ -1,2 +1,2 @@
-# JSON-MYSQL-PHP
-Load dropdownlist using JSON-MYSQL-PHP
+# JQUERY-MYSQL-PHP
+Load dropdownlist using JQUERY-MYSQL-PHP
